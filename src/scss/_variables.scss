@@ -9,3 +9,13 @@ $yellow:  #ffd256;
 $green:   #198754;
 $teal:    #20c997;
 $cyan:    #0dcaf0;
+
+// scss-docs-start grid-breakpoints
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 800px,
+  xl: 1200px,
+  xxl: 1400px
+);
