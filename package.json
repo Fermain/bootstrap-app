@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Fermain/bootstrap-app/issues"
   },
-  "homepage": "https://github.com/Fermain/bootstrap-app#readme"
+  "homepage": "https://github.com/Fermain/bootstrap-app#readme",
+  "devDependencies": {
+    "sass": "^1.69.5"
+  }
 }
