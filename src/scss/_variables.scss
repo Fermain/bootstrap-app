@@ -19,3 +19,11 @@ $grid-breakpoints: (
   xl: 1200px,
   xxl: 1400px
 );
+
+// scss-docs-start border-radius-variables
+$border-radius:               1.375rem;
+$border-radius-sm:            1.25rem;
+$border-radius-lg:            1.5rem;
+$border-radius-xl:            1rem;
+$border-radius-xxl:           2rem;
+$border-radius-pill:          50rem;
